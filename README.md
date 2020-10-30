@@ -1,11 +1,11 @@
 <h1> HelpOngs </h1>
 
 <h2 align="center"> Projeto desenvolvido uso das tecnologias
-    <a href="https://nodejs.org/en/" rel="noopener noreferrer" src="/gitImages/node.png" alt="Nodejs">Node.js,</a>
-    <a href="https://pt-br.reactjs.org/" rel="noopener noreferrer" src="/gitImages/reactJs.png" alt="React">React,</a>
-    <a href="https://reactnative.dev/" rel="noopener noreferrer" src="/gitImages/native.png" alt="ReactNative">React Native</a>
+    <a href="https://nodejs.org/en/" rel="noopener noreferrer" src="/tree/master/gitImages/node.png" alt="Nodejs">Node.js,</a>
+    <a href="https://pt-br.reactjs.org/" rel="noopener noreferrer" src="/tree/master/gitImages/reactJs.png" alt="React">React,</a>
+    <a href="https://reactnative.dev/" rel="noopener noreferrer" src="/tree/master/gitImages/native.png" alt="ReactNative">React Native</a>
     e
-    <a href="https://www.sqlite.org/index.html" rel="noopener noreferrer" src="/gitImages/sqlite.png" alt="Sqlite3">SQLite3</a>
+    <a href="https://www.sqlite.org/index.html" rel="noopener noreferrer" src="/tree/master/gitImages/sqlite.png" alt="Sqlite3">SQLite3</a>
 </h2>
 
 #### backend + web + mobile
