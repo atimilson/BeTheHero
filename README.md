@@ -7,7 +7,8 @@
     e
     <a href="https://www.sqlite.org/index.html" rel="noopener noreferrer" src="/gitImages/sqlite.png" alt="Sqlite3">SQLite3</a>
 </h2>
-#### backend + web + mobile
+
+<h3> backend + web + mobile </h3>
 
 O projeto permite listar ongs e casos que necessitam de ajuda financeira, por meio da interface o usuário pode entrar em contato com a Ong através de e-mail/whatsapp combinar a ajuda financeira necessária para o caso em questão.
 
