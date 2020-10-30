@@ -2,7 +2,7 @@
 
 <h2> Projeto desenvolvido uso das tecnologias
     <a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">Node.js,
-        <img src="/gitImages/node.png" style="max-width: 100%; height: 20px;" alt="Nodejs">
+        <img src="/gitImages/node.png" style="max-width: 100%; height: 20px;" alt="Nodejs"/>
     </a>
 
     <a href="https://pt-br.reactjs.org/" target="_blank" rel="noopener noreferrer">React,
