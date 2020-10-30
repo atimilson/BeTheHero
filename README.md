@@ -1,7 +1,9 @@
 <h1> HelpOngs </h1>
 
 <h2> Projeto desenvolvido uso das tecnologias
-    <a href="/gitImages/node.png" rel="noopener noreferrer" src="/gitImages/node.png" alt="Nodejs">Node.js,</a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noopener noreferrer">Node.js,
+        <img src="/gitImages/node.png" alt="Nodejs">
+    </a>
     <a href="https://pt-br.reactjs.org/" rel="noopener noreferrer" src="/gitImages/reactJs.png" alt="React">React,</a>
     <a href="https://reactnative.dev/" rel="noopener noreferrer" src="/gitImages/native.png" alt="ReactNative">React Native</a>
     e
