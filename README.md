@@ -7,28 +7,35 @@
 <ul>
 
     <li>
+        ::marker
         <a href="https://expo.io/" rel="nofollow">Expo</a>
     </li>
     <li>
+        ::marker
         <a href="#">JavaScript</a>
     </li>
     <li>
+        ::marker
         <a href="https://nodejs.org/en/" rel="nofollow">Node.js</a>
     </li>
     <li>
+        ::marker
         <a href="https://pt-br.reactjs.org/" rel="nofollow">React</a>
     </li>
     <li>
+        ::marker
         <a href="https://reactnative.dev/" rel="nofollow">React Native</a>
     </li>
     <li>
+        ::marker
         <a href="https://www.sqlite.org/index.html" rel="nofollow">SQLite3</a>
     </li>
 
 </ul>
 </div>
 
-<img src="/gitImages/loginScreen.png" style="max-width:10%;" alt="Login">
+
+<img src="/gitImages/loginScreen.png" style="max-width:100%;" alt="Login">
 <img src="/gitImages/appScreens.png" style="max-width:100%;" alt="app">
 
 
