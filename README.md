@@ -27,10 +27,10 @@
 </ul>
 
 <h2>Projeto</h2>
-<p>O <strong> Be The Hero </strong>é uma aplicação que conecta pessoas a demandas sociais apresentadas por intermédio de Ongs cadastradas na plataforma, o usuário poderá escolher qual causa ajudar, entrando em contato por whatsapp ou e-mail</p>
+<p>O <strong> Be The Hero </strong>é uma aplicação que conecta pessoas a demandas sociais apresentadas por intermédio de Ongs cadastradas na plataforma. O usuário poderá escolher qual causa ajudar, havendo a possibilidade de entrar em contato por whatsapp ou e-mail com a instituição.</p>
 
 <h3 align="center">App</h3>
-<img src="/gitImages/appScreens.png" style="max-width:100%;" width="100%" alt="app">
+<img src="/gitImages/appScreens.png" style="max-width:100%;" alt="app">
 
 <h3 align="center">Web</h3>
 <img src="/gitImages/loginScreen.png" style="max-width:100%;" alt="Login">
