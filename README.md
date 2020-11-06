@@ -6,27 +6,27 @@
 <ul>
     <li>
         ::marker
-    <a href="https://expo.io/">Expo</a>
+        <a href="https://expo.io/">Expo</a>
     </li>
     <li>
         ::marker
-    <a href="#">JavaScript</a>
+        <a href="#">JavaScript</a>
     </li>
     <li>
         ::marker
-    <a href="https://nodejs.org/en/">Node.js</a>
+        <a href="https://nodejs.org/en/">Node.js</a>
     </li>
     <li>
         ::marker
-    <a href="https://pt-br.reactjs.org/">React</a>
+        <a href="https://pt-br.reactjs.org/">React</a>
     </li>
     <li>
         ::marker
-    <a href="https://reactnative.dev/">React Native</a>
+        <a href="https://reactnative.dev/">React Native</a>
     </li>
     <li>
         ::marker
-    <a href="https://www.sqlite.org/index.html">SQLite3</a>
+        <a href="https://www.sqlite.org/index.html">SQLite3</a>
     </li>
 </ul>
 
