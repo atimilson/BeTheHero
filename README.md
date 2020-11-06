@@ -3,14 +3,15 @@
 <h2>Tecnologias</h2>
 <p>Este projeto foi desenvolvido com as seguintes tecnologias</p>
 
-
+<div>
 <ul>
 
     <li>
-        ::marker
         <a href="https://expo.io/" rel="nofollow">Expo</a>
     </li>
-
+    <li>
+        <a href="#">JavaScript</a>
+    </li>
     <li>
         <a href="https://nodejs.org/en/" rel="nofollow">Node.js</a>
     </li>
@@ -25,6 +26,7 @@
     </li>
 
 </ul>
+</div>
 
 <img src="/gitImages/loginScreen.png" style="max-width:10%;" alt="Login">
 <img src="/gitImages/appScreens.png" style="max-width:100%;" alt="app">
