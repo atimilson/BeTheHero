@@ -1,5 +1,5 @@
 <h1 align="center"> 
-<img src="/frontend/src/assets/logo.svg" style="width: 1%;" alt="logo">
+<img src="/frontend/src/assets/logo.svg" alt="logo">
 </h1>
 
 <h2>Tecnologias</h2>
