@@ -3,7 +3,7 @@
 </h1>
 
 <h2>Tecnologias</h2>
-<p>Este projeto foi desenvolvido com as seguintes tecnologias</p>
+<p>Esse projeto foi desenvolvido com as seguintes tecnologias</p>
 
 <ul>
     <li>
@@ -26,8 +26,11 @@
     </li>
 </ul>
 
+<h2>Tecnologias</h2>
+<p>Esse projeto foi desenvolvido com as seguintes tecnologias</p>
+
 <h3 align="center">App</h3>
-<img src="/gitImages/appScreens.png" style="max-width:100%;" alt="app">
+<img src="/gitImages/appScreens.png" style="max-width:100%;" width="100%" alt="app">
 
 <h3 align="center">Web</h3>
 <img src="/gitImages/loginScreen.png" style="max-width:100%;" alt="Login">
