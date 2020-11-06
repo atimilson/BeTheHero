@@ -10,9 +10,7 @@
         ::marker
         <a href="https://expo.io/" rel="nofollow">Expo</a>
     </li>
-    <li>
-        <a href="#">JavaScript</a>
-    </li>
+
     <li>
         <a href="https://nodejs.org/en/" rel="nofollow">Node.js</a>
     </li>
