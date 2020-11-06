@@ -28,10 +28,6 @@
 </h2>
 
 <img src="/gitImages/loginScreen.png" style="max-width:100%;" alt="Login">
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-<img src="/gitImages/MobileLoad.png" style="width: 30%;" alt="LoadApp">
-<img src="/gitImages/MobileCases.png" style="width: 30%;" alt="CasesApp">
-<img src="/gitImages/MobileCaseDetails.png" style="width:30%;" alt="DetailsApp">
-</div>
+<img src="/gitImages/appScreens.png" style="max-width:100%;" alt="app">
 
 <h3> backend + web + mobile </h3>
