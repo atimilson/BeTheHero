@@ -38,4 +38,4 @@
 <img src="/gitImages/appScreens.png" style="max-width:100%;" alt="app">
 
 <h3 align="center">Web</h3>
-<img src="/gitImages/loginScreen.png" style="max-width:100%;" alt="Login">
+<img src="/gitImages/webScreenLogin.png" style="max-width:100%;" alt="Login">
