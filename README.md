@@ -1,5 +1,5 @@
 <h1 align="center"> 
-<img src="/frontend/src/assets/logo.svg" width="100%" alt="logo">
+<img src="/frontend/src/assets/logo.svg" style="width: min-content;" alt="logo">
 </h1>
 
 <h2>Tecnologias</h2>
@@ -26,8 +26,8 @@
     </li>
 </ul>
 
-<h3 align="center">Web</h3>
+<h3 align="center">App</h3>
 <img src="/gitImages/appScreens.png" style="max-width:100%;" alt="app">
 
-<h3 align="center">App</h3>
+<h3 align="center">Web</h3>
 <img src="/gitImages/loginScreen.png" style="max-width:100%;" alt="Login">
