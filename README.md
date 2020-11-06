@@ -8,22 +8,22 @@
 
     <li>
         ::marker
-        <a href="https://expo.io/" rel="noopener noreferrer">Expo</a>
+        <a href="https://expo.io/" >Expo</a>
     </li>
     <li>
         <a href="#">JavaScript</a>
     </li>
     <li>
-        <a href="https://nodejs.org/en/" rel="noopener noreferrer">Node.js</a>
+        <a href="https://nodejs.org/en/" >Node.js</a>
     </li>
     <li>
-        <a href="https://pt-br.reactjs.org/" rel="noopener noreferrer">React</a>
+        <a href="https://pt-br.reactjs.org/" >React</a>
     </li>
     <li>
-        <a href="https://reactnative.dev/" rel="noopener noreferrer">React Native</a>
+        <a href="https://reactnative.dev/" >React Native</a>
     </li>
     <li>
-        <a href="https://www.sqlite.org/index.html" rel="noopener noreferrer">SQLite3</a>
+        <a href="https://www.sqlite.org/index.html" >SQLite3</a>
     </li>
 
 </ul>
