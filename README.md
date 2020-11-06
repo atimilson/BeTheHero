@@ -2,27 +2,31 @@
 <img src="/frontend/src/assets/logo.svg" alt="logo">
 </h1>
 
+<a href="BeTheHero/blob/master/LICENSE" align="center">
+    <img src="/gitImages/mit.svg" alt="LICENSE_MIT">
+</a>
+
 <h2>Tecnologias</h2>
 <p>Esse projeto que compreende <strong>backend, frontend e mobile</strong> foi desenvolvido com as seguintes tecnologias</p>
 
 <ul>
     <li>
-        <a href="https://expo.io/" rel="nofollow">Expo</a>
+        <a href="https://expo.io/" rel="noopener noreferrer" target="_blank">Expo</a>
     </li>
     <li>
         <a href="#" rel="noopener noreferrer">JavaScript</a>
     </li>
     <li>
-        <a href="https://nodejs.org/en/" rel="noopener noreferrer">Node.js</a>
+        <a href="https://nodejs.org/en/" rel="noopener noreferrer" target="_blank">Node.js</a>
     </li>
     <li>
-        <a href="https://pt-br.reactjs.org/" rel="noopener noreferrer">React</a>
+        <a href="https://pt-br.reactjs.org/" rel="noopener noreferrer" target="_blank">React</a>
     </li>
     <li>
-        <a href="https://reactnative.dev/" rel="noopener noreferrer">React Native</a>
+        <a href="https://reactnative.dev/" rel="noopener noreferrer" target="_blank">React Native</a>
     </li>
     <li>
-        <a href="https://www.sqlite.org/index.html" rel="noopener noreferrer">SQLite3</a>
+        <a href="https://www.sqlite.org/index.html" rel="noopener noreferrer"target="_blank">SQLite3</a>
     </li>
 </ul>
 
