@@ -1,16 +1,13 @@
 <h1 align="center"> HelpOngs </h1>
 
-
-
-<img src="/gitImages/loginScreen.png" style="max-width:10%;" alt="Login">
-<img src="/gitImages/appScreens.png" style="max-width:100%;" alt="app">
-
 <h2>Tecnologias</h2>
 <p>Este projeto foi desenvolvido com as seguintes tecnologias</p>
+
 
 <ul>
 
     <li>
+        ::marker
         <a href="https://expo.io/" rel="noopener noreferrer">Expo</a>
     </li>
     <li>
@@ -30,3 +27,8 @@
     </li>
 
 </ul>
+
+<img src="/gitImages/loginScreen.png" style="max-width:10%;" alt="Login">
+<img src="/gitImages/appScreens.png" style="max-width:100%;" alt="app">
+
+
