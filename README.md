@@ -1,4 +1,4 @@
-<h1 align:center> HelpOngs </h1>
+<h1 align="center"> HelpOngs </h1>
 
 
 
@@ -7,7 +7,9 @@
 
 <h2>Tecnologias</h2>
 <p>Este projeto foi desenvolvido com as seguintes tecnologias</p>
+
 <ul>
+
     <li>
         <a href="https://expo.io/" rel="noopener noreferrer">Expo</a>
     </li>
@@ -26,4 +28,5 @@
     <li>
         <a href="https://www.sqlite.org/index.html" rel="noopener noreferrer">SQLite3</a>
     </li>
+
 </ul>
