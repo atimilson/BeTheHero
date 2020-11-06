@@ -7,7 +7,7 @@
 
 <ul>
     <li>
-        <a href="https://expo.io/" rel="noopener noreferrer">Expo</a>
+        <a href="https://expo.io/" rel="nofollow">Expo</a>
     </li>
     <li>
         <a href="#" rel="noopener noreferrer">JavaScript</a>
@@ -26,5 +26,8 @@
     </li>
 </ul>
 
-<img src="/gitImages/appScreens.png" style="max-width:100%;" alt="app">
+<h3 align="center">App</h3>
 <img src="/gitImages/loginScreen.png" style="max-width:100%;" alt="Login">
+
+<h3 align="center">Web</h3>
+<img src="/gitImages/appScreens.png" style="max-width:100%;" alt="app">
