@@ -2,7 +2,6 @@
     <h1> 
     <img src="/frontend/src/assets/logo.svg" alt="logo">
     </h1>
-
     <a href="BeTheHero/blob/master/LICENSE">
         <img src="/gitImages/mit.svg" alt="LICENSE_MIT">
     </a>
