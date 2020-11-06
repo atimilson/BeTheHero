@@ -1,10 +1,12 @@
-<h1 align="center"> 
-<img src="/frontend/src/assets/logo.svg" alt="logo">
-</h1>
+<div align="center">
+    <h1> 
+    <img src="/frontend/src/assets/logo.svg" alt="logo">
+    </h1>
 
-<a href="BeTheHero/blob/master/LICENSE" align="center">
-    <img src="/gitImages/mit.svg" alt="LICENSE_MIT">
-</a>
+    <a href="BeTheHero/blob/master/LICENSE">
+        <img src="/gitImages/mit.svg" alt="LICENSE_MIT">
+    </a>
+</div>
 
 <h2>Tecnologias</h2>
 <p>Esse projeto que compreende <strong>backend, frontend e mobile</strong> foi desenvolvido com as seguintes tecnologias</p>
