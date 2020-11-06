@@ -1,4 +1,6 @@
-<h1 align="center"> HelpOngs </h1>
+<h1 align="center"> 
+<img src="/frontend/src/assets/logo.svg" alt="logo">
+</h1>
 
 <h2>Tecnologias</h2>
 <p>Este projeto foi desenvolvido com as seguintes tecnologias</p>
